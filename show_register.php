@@ -25,7 +25,7 @@ if (!$result) die($conn->error);
     <thead>
       <tr>
         <th>ลำดับ</th>
-        <th>ชื่อ-นามสกุล</th>
+        <th>ชื่อ - นามสกุล</th>
         <th>อีเมล์</th>
         <th>เพศ</th>
         <th>ความสนใจ</th>
